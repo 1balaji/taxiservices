@@ -1,0 +1,21 @@
+﻿<!DOCTYPEhtml>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no;"/>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8"/> 
+        <title>PhoneGap WP7</title> 
+        <link rel="stylesheet"href="master.css" type="text/css" media="screen" title="no title" charset="utf-8"/> 
+        <script type="text/javascript" charset="utf-8"  src="cordova-2.6.0.js"></script> 
+        <script type="text/javascript"> 
+            function Button1_onclick()
+            {
+                navigator.notification.alert("Hi");
+            }
+        </script>
+    </head>
+    <body>
+        <p>
+            <input id="Button1" type="button" value="Click" onclick="return Button1_onclick()" />
+        </p>
+    </body>
+</html>

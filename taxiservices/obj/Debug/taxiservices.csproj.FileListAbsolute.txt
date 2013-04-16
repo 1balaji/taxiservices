@@ -1,0 +1,14 @@
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\ApplicationIcon.png
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\Background.png
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\taxiservices.dll
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\taxiservices.pdb
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\AppManifest.xaml
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\taxiservices.xap
+D:\-=Development=-\taxiservices\taxiservices\Bin\Debug\WPCordovaClassLib.dll
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\ResolveAssemblyReference.cache
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\App.g.i.cs
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\MainPage.g.i.cs
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.g.resources
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.dll
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.pdb
+D:\-=Development=-\taxiservices\taxiservices\obj\Debug\XapCacheFile.xml
