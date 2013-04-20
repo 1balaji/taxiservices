@@ -12,3 +12,17 @@ D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.g.resources
 D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.dll
 D:\-=Development=-\taxiservices\taxiservices\obj\Debug\taxiservices.pdb
 D:\-=Development=-\taxiservices\taxiservices\obj\Debug\XapCacheFile.xml
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\ApplicationIcon.png
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\Background.png
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\taxiservices.dll
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\taxiservices.pdb
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\AppManifest.xaml
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\taxiservices.xap
+D:\_Development_\taxiservices\taxiservices\Bin\Debug\WPCordovaClassLib.dll
+D:\_Development_\taxiservices\taxiservices\obj\Debug\ResolveAssemblyReference.cache
+D:\_Development_\taxiservices\taxiservices\obj\Debug\App.g.i.cs
+D:\_Development_\taxiservices\taxiservices\obj\Debug\MainPage.g.i.cs
+D:\_Development_\taxiservices\taxiservices\obj\Debug\taxiservices.g.resources
+D:\_Development_\taxiservices\taxiservices\obj\Debug\taxiservices.dll
+D:\_Development_\taxiservices\taxiservices\obj\Debug\taxiservices.pdb
+D:\_Development_\taxiservices\taxiservices\obj\Debug\XapCacheFile.xml
