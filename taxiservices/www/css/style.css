@@ -1,0 +1,64 @@
+/*
+Taxi Services
+Version 1.0.0
+Author: Igor Sadchenko
+*/
+@import url("reset.css");
+/*General styles*/
+html{
+	height: 100%;
+}
+body{
+	padding-top: 25px;
+	padding-left: 18px;
+	background: #070606;
+	min-height: 100%;
+}
+#wrap{
+	width: 321px;
+	font-family: "Gotham Light";
+	background: #070606;
+}
+#header{
+	height: 50px;
+}
+#field{
+	padding-top: 38px;
+	height: 110px;
+	width: 290px;
+}
+#appdesc{
+	color: #fffefc;
+	font-size: 14px;
+}
+#appname{
+	padding-top: 8px;
+	color: #f9f7f5;
+	font-size: 33px;
+}
+#name{
+	color: #fffefc;
+	font-size: 26px;
+	padding-top: 6px;
+
+}
+#desc{
+	padding-top: 7px;
+	height: 42px;
+	width: 182px;
+	color: #a4a3a2;
+	font-size: 16px;
+}
+#rate{
+	color: #118cc0;
+	font-size: 16px;
+}
+#field ul li {
+	float: left;
+	padding-right: 10px;
+	
+}
+#sms{
+	position: relative;
+	top: -30px;
+}
